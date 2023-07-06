@@ -14,6 +14,6 @@ d. use the App to infringe upon any third-party intellectual property rights.
 6. Limitation of Liability. QuitCount shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages arising out of or in connection with the App or this Agreement.
 7. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which QuitCount is located.
 8. Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between the parties.
-9. Contact Information. If you have any questions about this Agreement or the App, please contact QuitCount at [me@ansim.dev](mailto:support@quitcount.com).
+9. Contact Information. If you have any questions about this Agreement or the App, please contact QuitCount at me@ansim.dev.
 
 This App is provided free of charge and is intended for use as is.
